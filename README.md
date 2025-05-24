@@ -1,7 +1,7 @@
 
 # grpc-sandbox
 
-**grpc-sandbox** is a project designed for testing and experimenting with gRPC services. It provides a clean structure for setting up example services and clients, allowing for rapid prototyping, debugging, and performance validation.
+**grpc-sandbox**
 
 ## Features
 
