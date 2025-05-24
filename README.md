@@ -33,8 +33,8 @@ grpc-test-lab/
 
 ### Clone the repository
 
-git clone https://github.com/your-username/grpc-test-lab.git  
-cd grpc-test-lab
+git clone https://github.com/divy-sh/grpc-sandbox.git
+cd grpc-sandboc
 
 ### Compile Protocol Buffers (example for Go)
 
@@ -50,13 +50,8 @@ go run client/main.go
 
 ### Run tests
 
-go test ./tests
+go test ./...
 
-## Docker Support
-
-To run the project using Docker:
-
-docker-compose up --build
 
 ## License
 
