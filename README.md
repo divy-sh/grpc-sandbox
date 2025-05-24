@@ -18,16 +18,7 @@ grpc-test-lab/
 ├── server/            # gRPC server code  
 ├── client/            # gRPC client code  
 ├── tests/             # Test scripts and assertions  
-├── docker/            # Docker and Docker Compose setup  
-├── Makefile           # Common CLI commands  
-└── README.md  
-
-## Requirements
-
-- A supported language environment (e.g. Go, Python, Node.js, etc.)  
-- protoc Protocol Buffers compiler  
-- gRPC library for the chosen language  
-- Docker (optional, for containerized environments)  
+└── README.md
 
 ## Setup
 
