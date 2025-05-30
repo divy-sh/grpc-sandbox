@@ -13,7 +13,7 @@
 
 ## Project Structure
 
-grpc-test-lab/  
+grpc-sandbox/  
 ├── proto/             # Protocol Buffer definitions  
 ├── server/            # gRPC server code  
 ├── client/            # gRPC client code  
